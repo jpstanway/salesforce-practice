@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <name>AuraDefinitionBundle</name>
+    <members>AccountList</members>
+    <members>AccountLocator</members>
+    <members>AccountMap</members>
+    <members>AccountSearch</members>
+    <members>AccountsLoaded</members>
+  </types>
+  <types>
+    <name>ApexClass</name>
+    <members>AccountSearchController</members>
+    <members>EmailManager</members>
+  </types>
+  <types>
+    <name>PermissionSet</name>
+    <members>Geolocation</members>
+  </types>
+  <types>
+    <name>CustomTab</name>
+    <members>Account_Locator</members>
+  </types>
+  <version>48.0</version>
+</Package>
