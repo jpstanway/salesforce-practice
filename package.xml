@@ -11,7 +11,13 @@
   <types>
     <name>ApexClass</name>
     <members>AccountSearchController</members>
+    <members>AccountTriggerHandler</members>
+    <members>AccountTriggerTest</members>
     <members>EmailManager</members>
+  </types>
+  <types>
+    <name>ApexTrigger</name>
+    <members>AccountTrigger</members>
   </types>
   <types>
     <name>PermissionSet</name>
