@@ -18,6 +18,7 @@
   <types>
     <name>ApexTrigger</name>
     <members>AccountTrigger</members>
+    <members>ClosedOpportunityTrigger</members>
   </types>
   <types>
     <name>PermissionSet</name>
