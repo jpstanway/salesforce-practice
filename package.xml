@@ -14,11 +14,23 @@
     <members>AccountTriggerHandler</members>
     <members>AccountTriggerTest</members>
     <members>EmailManager</members>
+    <members>TemperatureConverter</members>
+    <members>TemperatureConverterTest</members>
+    <members>TaskUtil</members>
+    <members>TaskUtilTest</members>
+    <members>VerifyDate</members>
+    <members>TestVerifyDate</members>
+    <members>TestAccountDeletion</members>
+    <members>TestRestrictContactByName</members>
+    <members>TestDataFactory</members>
+    <members>RandomContactFactory</members>
   </types>
   <types>
     <name>ApexTrigger</name>
     <members>AccountTrigger</members>
     <members>ClosedOpportunityTrigger</members>
+    <members>AccountDeletion</members>
+    <members>RestrictContactByName</members>
   </types>
   <types>
     <name>PermissionSet</name>
